@@ -8,7 +8,7 @@
 
 - `.github/workflows/01-hello.yml`
 
-## Goal
+## Goals
 
 Take the tiny hello workflow and change the trigger story.
 
